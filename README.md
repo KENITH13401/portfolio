@@ -18,8 +18,7 @@ Welcome to my personal developer portfolio website! This is a modern, responsive
 
 ## 🚀 Live Website
 
-**[Click here to view live site](https://yourusername.github.io/your-repo-name/)**  
-(Replace with actual GitHub Pages link after hosting)
+https://portfoliokenith.netlify.app/
 
 ---
 
